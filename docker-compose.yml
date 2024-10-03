@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image: "ram170499/my-django"
+     build: .
      ports :
          - "8000:8000"
