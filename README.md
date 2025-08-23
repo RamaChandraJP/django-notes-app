@@ -1,3 +1,30 @@
+# 🚀 Django Web Application
+
+## 📌 Overview
+Deployed a **Django-based web application** using **Docker containers** and automated **CI/CD pipelines** with **Jenkins**, hosted on **AWS**, with images stored in **DockerHub**.  
+
+This project demonstrates full **DevOps lifecycle management** — from coding and containerization to automated deployment in the cloud.
+
+---
+
+## 🏆 Key Achievements
+- ✅ Built and containerized Django web app using **Docker**  
+- ✅ Automated build → test → deploy pipeline with **Jenkins**  
+- ✅ Integrated **DockerHub** for container image management  
+- ✅ Deployed application on **AWS EC2** for production hosting  
+- ✅ Streamlined delivery with reproducible builds and minimal downtime  
+
+---
+
+## 🛠️ Tech Stack
+- **Backend Framework**: Django (Python)  
+- **Containerization**: Docker  
+- **CI/CD**: Jenkins  
+- **Cloud Hosting**: AWS (EC2)  
+- **Registry**: DockerHub  
+
+---
+
 # Simple Notes App 
 This is a simple notes app built with React and Django.
 
@@ -8,23 +35,13 @@ This is a simple notes app built with React and Django.
 
 ## Installation
 1. Clone the repository
-```
-git clone https://github.com/RamachandraJP/django-notes-app.git
-```
 
 2. Build the app
-```
-docker build -t notes-app .
-```
 
 3. Run the app
-```
-docker run -d -p 8000:8000 notes-app:latest
-```
 
 ## Nginx
 
 Install Nginx reverse proxy to make this application available
 
-`sudo apt-get update`
-`sudo apt install nginx`
+
