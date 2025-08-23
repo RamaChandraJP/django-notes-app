@@ -31,7 +31,9 @@ This is a simple notes app built with React and Django.
 ## Requirements
 1. Python 3.9
 2. Node.js
-3. React
+3. Jenkins
+4. AWS
+5. Docker and Dockerhub
 
 ## Installation
 1. Clone the repository
